@@ -1735,6 +1735,13 @@ input, select, textarea {
 		.container.max {
 			width: 100%;
 		}
+		.container.contact{
+			text-align: center;
+		}
+		.container h1{
+			text-align: center;
+			font-size: 2em;
+		}
 
 		@media screen and (max-width: 1024px) {
 
@@ -1751,6 +1758,7 @@ input, select, textarea {
 			}
 
 		}
+
 
 /* Section/Article */
 
